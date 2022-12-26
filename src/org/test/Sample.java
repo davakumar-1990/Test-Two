@@ -10,7 +10,9 @@ public class Sample {
 	}
 	private void Gender() {
 		System.out.println("Male");
+		System.out.println("Female");
 	}
+	
 	private void area() {
 		System.out.println("Chennai");
 	}
